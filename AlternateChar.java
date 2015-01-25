@@ -1,3 +1,6 @@
+// Refer to the following link for problem statement.
+// https://www.hackerrank.com/challenges/alternating-characters
+
 import java.util.Scanner;
 
 public class AlternateChar {
